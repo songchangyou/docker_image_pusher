@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-neo4j
+apache/dolphinscheduler-standalone-server:3.2.1
