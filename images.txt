@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-apache/dolphinscheduler-standalone-server:3.2.1
+mysql/mysql-server:8.0.30
