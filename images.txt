@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-ghcr.io/chroma-core/chroma:0.5.1
+container-registry.oracle.com/database/free:latest
