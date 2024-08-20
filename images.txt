@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-opensearchproject/opensearch-dashboards:latest
+ myscale/myscaledb:1.6.4
