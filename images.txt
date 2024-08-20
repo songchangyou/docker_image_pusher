@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-mysql:8.0.36
+langgenius/dify-api:0.7.1
